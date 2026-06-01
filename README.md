@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
+I'm Russ, a Data Science enthusiast from the Philippines.
 <!--
 **RBenjamin-DS/RBenjamin-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
